@@ -3,7 +3,7 @@
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
-    <provides></provides>
+    <provides>executable</provides>
   </extension>
   <extension point="xbmc.service" library="service.py" start="startup">
   </extension>
