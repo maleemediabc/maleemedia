@@ -1,5 +1,5 @@
 <addons>
-<<<<<<< HEAD
+
 <addon id="plugin.program.addoncleanerv2" name="[COLOR lime]Addon Cleaner for Leia[/COLOR]" version="2.0.3" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
@@ -73,15 +73,11 @@ Thanks to all Devs who have contributed to this project!</description>
   </extension>
 </addon>
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-=======
->>>>>>> 2b72df0b323e529fb41c4f11baf9fe96fe27c98c
 <addon id="repository.maleemedia"
         name="[COLOR lime]MaleeMedia Repo[/COLOR]"
         version="2.0.3"
         provider-name="MaleeMedia">
     <requires>
-		<import addon="xbmc.addon" version="17.0.0"/>
         <import addon="xbmc.addon" version="18.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository"
@@ -97,3 +93,4 @@ Thanks to all Devs who have contributed to this project!</description>
     </extension>
 </addon>
 
+</addons>
