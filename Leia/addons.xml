@@ -56,7 +56,7 @@
   </extension>
 </addon>
 
-<addon id="script.repo.importer" name="[COLOR lime]Repo Importer[/COLOR]" version="18.0.6" provider-name="MALEE MEDIA">
+<addon id="script.repo.importer" name="[COLOR lime]Repo Importer[/COLOR]" version="18.0.7" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
   </requires>
@@ -72,6 +72,7 @@ Thanks to all Devs who have contributed to this project!</description>
     <platform>all</platform>
   </extension>
 </addon>
+
 
 <addon id="repository.maleemedia"
         name="[COLOR lime]MaleeMedia Repo[/COLOR]"
