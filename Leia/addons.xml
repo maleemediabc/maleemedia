@@ -35,7 +35,7 @@
   </extension>
 </addon>
 
-<addon id="script.addon.importer.linux" name="[COLOR lime]Addon Importer[/COLOR]" version="18.0.5" provider-name="MALEE MEDIA">
+<addon id="script.addon.importer.linux" name="[COLOR lime]Addon Importer[/COLOR]" version="18.0.6" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="plugin.video.ds"/>
@@ -43,7 +43,10 @@
     <import addon="plugin.video.torque2"/>
 	<import addon="plugin.audio.soundcloud"/>
 	<import addon="plugin.video.grindhouselearning"/>
-	<import addon="plugin.video.fen"/>	
+	<import addon="plugin.video.fen"/>
+	<import addon="plugin.video.shadow"/>
+	<import addon="plugin.video.theoath"/>
+	<import addon="plugin.googledrive"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
         <provides></provides>
@@ -72,7 +75,6 @@ Thanks to all Devs who have contributed to this project!</description>
     <platform>all</platform>
   </extension>
 </addon>
-
 
 <addon id="repository.maleemedia"
         name="[COLOR lime]MaleeMedia Repo[/COLOR]"

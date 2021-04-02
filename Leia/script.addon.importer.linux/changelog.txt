@@ -1,7 +1,9 @@
 [COLOR lime]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON REMOTE[/COLOR]
-August 3rd 2020 - 2 NEW ADDONS
-Fen - Movies and TV Series Addon (needs Real-Debrid) See Koditips.com for help.
-Torque2 - The welcome return of a new working version for motor racing fans.
-We have also cleaned up your system removing 2 now dead addons and a repo too.
+       ****** HAPPY EASTER TO ALL OUR CUSTOMERS ******
+APRIL 2nd 2021 - 3 NEW ADDONS - SEE EMAIL BEING SENT TODAY FOR MORE DETAILS
+Shadow - Fast Movies and TV Series Addon (needs Real-Debrid).
+The Oath - A new Exodus style Movie and TV Addon.
+Google Drive - Stream and Download files from shared Google Drive accounts.
+We have also recently cleaned up your system removing 2 now dead addons.
 You should now reboot to ensure that these changes are completed
 Best Wishes from [COLOR lime] MALEE MEDIA [/COLOR]
