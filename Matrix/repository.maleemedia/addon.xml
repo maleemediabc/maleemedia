@@ -15,7 +15,10 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-    </extension>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
