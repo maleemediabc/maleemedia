@@ -79,4 +79,22 @@
   </extension>
 </addon>
 
+<addon id="plugin.program.backup" name="[COLOR lime][B]AUTO BACKUP/RESTORE[/B][/COLOR]" version="2.0.7" provider-name="MR X">
+  <requires>
+  	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Auto Backup and manual Restore all your personal settings like streaming addons and wifi settings</summary>
+    <description lang="en">Auto Backup and manual Restore all your personal settings like streaming addons and wifi settings</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
 </addons>
