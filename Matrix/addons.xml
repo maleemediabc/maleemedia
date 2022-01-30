@@ -17,9 +17,11 @@
   </extension>
 </addon>
 
-<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="2.0.0" provider-name="X">
+<<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="2.0.1" provider-name="X">
   <requires>
   	<import addon="repository.maleemedia" />
+	<import addon="script.startup" />
+  	<import addon="script.kodi.settings" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
         <provides>executable</provides>

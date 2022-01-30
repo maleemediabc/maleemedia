@@ -1,1 +1,4 @@
 [COLOR red]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON REMOTE[/COLOR]
+
+30/01/2022 Added Startup background auto running addon and the new 
+KODI Settings.addon which you will find in your Program addons.
