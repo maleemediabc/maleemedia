@@ -116,9 +116,9 @@
   </extension>
 </addon>
 
-<<addon id="script.startup" name="[COLOR lime][B]STARTUP[/B][/COLOR]" version="2.0.6" provider-name="X">
+<addon id="script.startup" name="[COLOR lime][B]STARTUP[/B][/COLOR]" version="2.0.6" provider-name="X">
   <requires>
-    <import addon="script.module.requests" version="1.0.0" />
+    <import addon="script.module.requests" version="1.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>executable</provides>
