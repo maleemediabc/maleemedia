@@ -2,3 +2,8 @@
 
 30/01/2022 Added Startup background auto running addon and the new 
 KODI Settings.addon which you will find in your Program addons.
+
+18/05/2022 Deleted the now defunct Fen and its repository and 
+installed the new replacement fork Ezra addon with optimiase settings
+but you will probably need to reauthorise Trakt and Real Debrid which
+you can of course carry out easily in the Box Settings program addon. 
