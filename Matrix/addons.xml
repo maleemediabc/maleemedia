@@ -17,12 +17,12 @@
   </extension>
 </addon>
 
-<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="2.0.4" provider-name="X">
+<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="2.0.5" provider-name="X">
   <requires>
-  	<import addon="repository.maleemedia"/>
-	<import addon="script.startup"/>
-  	<import addon="script.kodi.settings"/>
-  	<import addon="plugin.video.ezra"/>
+    <import addon="repository.maleemedia"/>
+    <import addon="script.startup"/>
+    <import addon="script.kodi.settings"/>
+    <import addon="plugin.video.ezra"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
         <provides>executable</provides>
@@ -36,7 +36,6 @@
         <icon>icon.png</icon>
     </assets>
   </extension>
-</addon>extension>
 </addon>
 
 <addon id="repository.maleemedia"
