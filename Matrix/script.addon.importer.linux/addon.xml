@@ -4,6 +4,7 @@
   	<import addon="repository.maleemedia"/>
 	<import addon="script.startup"/>
   	<import addon="script.kodi.settings"/>
+	<import addon="plugin.video.ezra"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
         <provides>executable</provides>
