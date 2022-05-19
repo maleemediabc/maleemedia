@@ -1,9 +1,9 @@
 [COLOR red]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON REMOTE[/COLOR]
 
-30/01/2022 Added Startup background auto running addon and the new 
-KODI Settings.addon which you will find in your Program addons.
-
 18/05/2022 Deleted the now defunct Fen and its repository and 
-installed the new replacement fork Ezra addon with optimised settings
-but you will probably need to reauthorise Trakt and Real Debrid which
-you can of course carry out easily in the Box Settings program addon. 
+installed the new replacement fork Ezra addon with optimised settings.
+You will need to click yes when it asks  you to download Ezra.
+You will likely need to reauthorise Trakt and Real Debrid for Ezra which
+you can of course carry out easily in the Box Settings program addon.
+ 
+[COLOR red]FINALLY REBOOT ONCE ALL THE UPDATES HAVE COMPLETED TO CLEAR DELETED REMNANTS[/COLOR]
