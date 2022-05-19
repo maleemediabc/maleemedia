@@ -6,4 +6,4 @@ You will need to click yes when it asks  you to download Ezra.
 You will likely need to reauthorise Trakt and Real Debrid for Ezra which
 you can of course carry out easily in the Box Settings program addon.
  
-[COLOR red]FINALLY REBOOT ONCE ALL THE UPDATES HAVE COMPLETED TO CLEAR DELETED REMNANTS[/COLOR]
+FINALLY REBOOT ONCE ALL THE UPDATES HAVE COMPLETED TO CLEAR DELETED REMNANTS
