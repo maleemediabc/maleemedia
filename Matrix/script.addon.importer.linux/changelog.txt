@@ -4,13 +4,14 @@
 and installed the new replacement Ezra repository and addon all set up with 
 optimised settings. 
 
-Once all the updates have finished installing (no more update notices are seen
+When all the updates have finished installing (no more update notices appear
 in the top right of your screen), then reboot cleanly by selecting the power
 option at the top left of your wceen and choose the Reboot option.
-
 Once rebooted it will ask if you want to download and install the Ezra addon to
 which you should select "Yes". The new Ezra addon will auto install and enable.
 You may need to reauthorise Trakt and Real Debrid for Ezra which you can of
-course carry out easily in the Box Settings program addon.  Enjoy
+course carry out easily in the Box Settings program addon.
 
- 
+21/05/2022 **EXTRA NEW VIDEO ADDON**-Auto installed "Documentary Heaven" Enjoy.
+
+
