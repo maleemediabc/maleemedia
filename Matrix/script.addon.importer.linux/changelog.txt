@@ -1,8 +1,7 @@
 [COLOR red]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON REMOTE[/COLOR]
 
-18/05/2022 Deleted the now recently closed down Fen addon and its repository
-and installed the new replacement Ezra repository and addon all set up with 
-optimised settings. 
+18/05/2022 Deleted the now closed down Fen and its repository and installed the
+new replacement Ezra repository and addon all configured with optimised settings. 
 
 When all the updates have finished installing (no more update notices appear
 in the top right of your screen), then reboot cleanly by selecting the power
@@ -12,6 +11,6 @@ which you should select "Yes". The new Ezra addon will auto install and enable.
 You may need to reauthorise Trakt and Real Debrid for Ezra which you can of
 course carry out easily in the Box Settings program addon.
 
-21/05/2022 **EXTRA NEW VIDEO ADDON**-Auto installed "Documentary Heaven" Enjoy.
+21/05/2022 **EXTRA NEW VIDEO ADDON** Auto installed "Documentary Heaven" Enjoy.
 
 
