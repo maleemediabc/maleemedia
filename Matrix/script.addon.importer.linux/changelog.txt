@@ -1,16 +1,17 @@
-[COLOR red]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON REMOTE[/COLOR]
+[COLOR red]**NOTE** When all updates have finished installing (no more update notices appear in the
+top right of your screen), then reboot cleanly by selecting the power option at the top left
+of your screen & choose "Reboot". You may need to authorise Trakt & Real Debrid for newly
+installed addons. This can be carried out very easily in the new Box Settings program addon.[/COLOR]
 
 18/05/2022 Deleted the now closed down Fen and its repository and installed the
-new replacement Ezra repository and addon all configured with optimised settings. 
+new replacement Ezra repository and addon all configured with optimised settings.
+21/05/2022 Auto installed "Documentary Heaven" video addon.
 
-When all the updates have finished installing (no more update notices appear
-in the top right of your screen), then reboot cleanly by selecting the power
-option at the top left of your wceen and choose the Reboot option.
-Once rebooted it will ask if you want to download and install the Ezra addon to
-which you should select "Yes". The new Ezra addon will auto install and enable.
-You may need to reauthorise Trakt and Real Debrid for Ezra which you can of
-course carry out easily in the Box Settings program addon.
+09/06/2022 **LATEST** Added the Matrix version of the popular "Magic Dragon" addon.
+When asked if you want to download and install this addon then select "Yes".
+This excellent video addon will then auto install and enable. Enjoy.
 
-21/05/2022 **EXTRA NEW VIDEO ADDON** Auto installed "Documentary Heaven" Enjoy.
+[COLOR green]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON YOUR REMOTE[/COLOR]
+
 
 
