@@ -5,8 +5,8 @@ installed addons. This can be carried out very easily in the new Box Settings pr
 
 [COLOR green]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON YOUR REMOTE[/COLOR]
 
-07/07/2022 *LATEST* Removed the defunct Host505 repositiory, where The Oath addon was provided. 
-You can still use The Oath, but because it is now not supported it will no longer get updated. 
+07/07/2022 LATEST Removed defunct Host505 repositiory, where The Oath addon was provided. 
+You can still use The Oath, but as it is now not supported it will no longer get updated. 
 
 09/06/2022 Added the Matrix version of the popular "Magic Dragon" addon.
 When asked if you want to download and install this addon then select "Yes".
