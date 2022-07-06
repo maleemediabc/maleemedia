@@ -3,15 +3,21 @@ top right of your screen), then reboot cleanly by selecting the power option at 
 of your screen & choose "Reboot". You may need to authorise Trakt & Real Debrid for newly
 installed addons. This can be carried out very easily in the new Box Settings program addon.[/COLOR]
 
-18/05/2022 Deleted the now closed down Fen and its repository and installed the
-new replacement Ezra repository and addon all configured with optimised settings.
-21/05/2022 Auto installed "Documentary Heaven" video addon.
+[COLOR green]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON YOUR REMOTE[/COLOR]
 
-09/06/2022 **LATEST** Added the Matrix version of the popular "Magic Dragon" addon.
+07/07/2022 *LATEST* Removed the defunct Host505 repositiory, where The Oath addon was provided. 
+You can still use The Oath, but because it is now not supported it will no longer get updated. 
+
+09/06/2022 Added the Matrix version of the popular "Magic Dragon" addon.
 When asked if you want to download and install this addon then select "Yes".
 This excellent video addon will then auto install and enable. Enjoy.
 
-[COLOR green]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON YOUR REMOTE[/COLOR]
+21/05/2022 Auto installed "Documentary Heaven" video addon.
+
+18/05/2022 Deleted the now closed down Fen and its repository and installed the
+new replacement Ezra repository and addon all configured with optimised settings.
+
+
 
 
 

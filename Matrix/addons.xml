@@ -17,7 +17,7 @@
   </extension>
 </addon>
 
-<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="2.1.1" provider-name="X">
+<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="2.1.2" provider-name="X">
   <requires>
     <import addon="repository.maleemedia"/>
     <import addon="script.startup"/>
