@@ -6,8 +6,8 @@ installed addons. This can be carried out very easily in the new Box Settings pr
 [COLOR green]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON YOUR REMOTE[/COLOR]
 
 13/07/2022 *LATEST* Removed old Resolveurl version & installed the latest version by
-forcing 4K addon to update & install the new Resolveurl working version. You may need
-to reboot twice. Then the Oath, Shadow, 4K and Magic Dragon addons will all work again. 
+forcing 4K addon to update & auto install the new Resolveurl working version. Don't
+forget to reboot, then the Oath, Shadow, 4K and Magic Dragon addons will all work again. 
 
 07/07/2022  Removed defunct Host505 repositiory, where The Oath addon was provided. 
 You can still use The Oath, but as it is now not supported it will no longer get updated. 
