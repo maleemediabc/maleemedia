@@ -1,13 +1,13 @@
 [COLOR red]**NOTE** When all updates have finished installing (no more update notices appear in the
 top right of your screen), then reboot cleanly by selecting the power option at the top left
 of your screen & choose "Reboot". You may need to authorise Trakt & Real Debrid for newly
-installed addons. This can be carried out very easily in the new Box Settings program addon.[/COLOR]
+installed addons. This can be carried out easily in the new Box Settings program addon.[/COLOR]
 
-[COLOR green]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON YOUR REMOTE[/COLOR]
+[COLOR green]PLEASE READ THE LATEST INFO BELOW, THEN PRESS BACK KEY ON YOUR REMOTE TO CLEAR THIS WINDOW[/COLOR]
 
-13/07/2022 *LATEST* Removed old Resolveurl version & installed the latest version by
+[COLOR yellow]13/07/2022 *LATEST* Removed old Resolveurl version & installed the latest version by
 forcing 4K addon to update & auto install the new Resolveurl working version. Don't
-forget to reboot, then the Oath, Shadow, 4K and Magic Dragon addons will all work again. 
+forget to reboot, then the Oath, Shadow, 4K and Magic Dragon addons will all work again.[/COLOR]
 
 07/07/2022  Removed defunct Host505 repositiory, where The Oath addon was provided. 
 You can still use The Oath, but as it is now not supported it will no longer get updated. 
