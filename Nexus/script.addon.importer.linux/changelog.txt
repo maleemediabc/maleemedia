@@ -1,0 +1,13 @@
+[COLOR red]**NOTE** When all updates have finished installing (no more update notices appear in the
+top right of your screen), then reboot cleanly by selecting the power option at the top left
+of your screen & choose "Reboot". You may need to authorise Trakt & Real Debrid for newly
+installed addons. This can be carried out easily in the new Box Settings program addon.[/COLOR]
+
+[COLOR green]PLEASE READ THE LATEST INFO BELOW, THEN PRESS BACK KEY ON YOUR REMOTE TO CLEAR THIS WINDOW[/COLOR]
+
+New version for Nexus
+
+
+
+
+

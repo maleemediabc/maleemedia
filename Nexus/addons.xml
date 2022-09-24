@@ -1,0 +1,136 @@
+<addons>
+
+<addon id="plugin.program.backup" name="[COLOR lime][B]AUTO BACKUP/RESTORE[/B][/COLOR]" version="3.0.0" provider-name="MR X">
+  <requires>
+  	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Auto Backup and manual Restore all your personal settings like streaming addons and wifi settings</summary>
+    <description lang="en">Auto Backup and manual Restore all your personal settings like streaming addons and wifi setting
+    </description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.iptv" name="IPTV" version="3.0.0" provider-name="X">
+  <requires>
+	<import addon="xbmc.python" version="3.0.0" />
+	<import addon="script.module.requests" />
+	<import addon="pvr.iptvsimple" />	
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Generic IPTV addon</summary>
+    <language>en</language>
+    <description lang="en">Generic IPTV and VOD for Kodi Nexus</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="repository.maleemedia"
+        name="[COLOR lime]MaleeMedia Repo[/COLOR]"
+        version="4.0.0"
+        provider-name="MaleeMedia">
+    <requires>
+        <import addon="xbmc.addon" version="20.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository"
+        name="MaleeMedia Repo">
+        <dir minversion="20.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/maleemediabc/maleemedia/master/Nexus/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/maleemediabc/maleemedia/master/Nexus/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/maleemediabc/maleemedia/master/Nexus/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="3.0.0" provider-name="X">
+  <requires>
+    <import addon="repository.maleemedia"/>
+    <import addon="script.startup"/>
+    <import addon="script.kodi.settings"/>
+    <import addon="plugin.video.documentaryheaven"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="service.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Addon Importer</summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="script.kodi.settings" name="[COLOR lime][B]BOX SETTINGS[/B][/COLOR]" version="3.0.0" provider-name="X">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+            <provides>executable video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">Configure all your settings in one spot</description>
+        <disclaimer lang="en"></disclaimer>
+        <language></language>
+        <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="script.repo.importer" name="[COLOR lime]Matrix Repo Importer[/COLOR]" version="3.0.0" provider-name="X">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="service.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Repo Importer</summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon
+
+<addon id="script.startup" name="[COLOR lime][B]STARTUP[/B][/COLOR]" version="3.0.0" provider-name="X">
+  <requires>
+    <import addon="script.module.requests" version="1.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+</addons>
