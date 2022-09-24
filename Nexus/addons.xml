@@ -63,7 +63,7 @@
   </extension>
 </addon>
 
-<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="3.0.0" provider-name="X">
+<addon id="script.addon.importer.linux" name="[COLOR lime] Nexus Addon Importer[/COLOR]" version="3.0.0" provider-name="X">
   <requires>
     <import addon="repository.maleemedia"/>
     <import addon="script.startup"/>
@@ -101,7 +101,7 @@
   </extension>
 </addon>
 
-<addon id="script.repo.importer" name="[COLOR lime]Matrix Repo Importer[/COLOR]" version="3.0.0" provider-name="X">
+<addon id="script.repo.importer" name="[COLOR lime]Nexus Repo Importer[/COLOR]" version="3.0.0" provider-name="X">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
@@ -116,7 +116,7 @@
         <icon>icon.png</icon>
     </assets>
   </extension>
-</addon
+</addon>
 
 <addon id="script.startup" name="[COLOR lime][B]STARTUP[/B][/COLOR]" version="3.0.0" provider-name="X">
   <requires>
