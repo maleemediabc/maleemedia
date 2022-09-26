@@ -5,8 +5,8 @@ installed addons. This can be carried out easily in the new Box Settings program
 
 [COLOR green]PLEASE READ THE LATEST INFO BELOW, THEN PRESS BACK KEY ON YOUR REMOTE TO CLEAR THIS WINDOW[/COLOR]
 
-[COLOR yellow]26/09/2022 *LATEST* Added new exclsuive music addon FM Streams. This will allow you
-to listen to Radio stations from all over the world in good quality. Enjoy 
+[COLOR yellow]26/09/2022 *LATEST* Added new exclsuive music addon "FMStream". This will allow
+you to listen to Radio stations from all over the world in good quality. Enjoy 
 
 *REMINDER* Don't forget to look at the Google Drive addon for our latest superb collection
 of high quality music concerts to suit all sorts of tastes from rock to classical, exclusive
