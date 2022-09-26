@@ -6,11 +6,18 @@ installed addons. This can be carried out easily in the new Box Settings program
 [COLOR green]PLEASE READ THE LATEST INFO BELOW, THEN PRESS BACK KEY ON YOUR REMOTE TO CLEAR THIS WINDOW[/COLOR]
 
 [COLOR yellow]26/09/2022 *LATEST* Added new exclsuive music addon FM Streams. This will allow you
-to listen to Radio stations from all over the world in good quality. Enjoy [/COLOR]
+to listen to Radio stations from all over the world in good quality. Enjoy 
 
-Removed old Resolveurl version & installed the latest version by forcing 4K addon to
-update & auto install the new Resolveurl working version. Don't forget to reboot,
-then the Oath, Shadow, 4K and Magic Dragon addons will all work again.[/COLOR]
+*REMINDER* Don't forget to look at the Google Drive addon for our latest superb collection
+of high quality music concerts to suit all sorts of tastes from rock to classical, exclusive
+for our Malee Media customers. When in the Google Drive addon, select "Malee Media Drive" then
+click on the option "Shared With Me". Includes a special Ray's Video VJ selection and by clicking
+the remote menu button on the first video track choose "Play From Here" and it will continously
+auto play each track in order until you choose to stop the playback. This is regularly updated.[/COLOR]
+
+13/07/2022 Removed old Resolveurl version & installed the latest version by forcing 4K addon
+to update & auto install the new Resolveurl working version. Don't forget to reboot, then
+the Oath, Shadow, 4K and Magic Dragon addons will all work again.
 
 07/07/2022  Removed defunct Host505 repositiory, where The Oath addon was provided. 
 You can still use The Oath, but as it is now not supported it will no longer get updated. 
