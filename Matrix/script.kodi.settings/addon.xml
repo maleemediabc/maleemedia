@@ -3,7 +3,7 @@
     <requires>
     </requires>
     <extension point="xbmc.python.script" library="addon.py">
-            <provides>executable video</provides>
+            <provides>executable</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">Configure all your settings in one spot</description>

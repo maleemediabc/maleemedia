@@ -104,7 +104,7 @@
     <requires>
     </requires>
     <extension point="xbmc.python.script" library="addon.py">
-            <provides>executable video</provides>
+            <provides>executable</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">Configure all your settings in one spot</description>
@@ -129,6 +129,24 @@
     <summary lang="en"></summary>
     <description lang="en"></description>
     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.audio.fmstream" name="fmstream" version="1.0.3" provider-name="p">
+  <requires>
+  	<import addon="script.module.requests" />
+	<import addon="script.module.requests-cache" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">The Radio Stream Directory</summary>
+    <description lang="en">fmstream.org - The Radio Stream Directory</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
 
