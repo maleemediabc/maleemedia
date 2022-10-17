@@ -17,13 +17,14 @@
   </extension>
 </addon>
 
-<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="2.1.4" provider-name="X">
+<addon id="script.addon.importer.linux" name="[COLOR lime] Matrix Addon Importer[/COLOR]" version="2.1.5" provider-name="X">
   <requires>
     <import addon="repository.maleemedia"/>
     <import addon="script.startup"/>
     <import addon="script.kodi.settings"/>
     <import addon="plugin.video.documentaryheaven"/>
     <import addon="plugin.audio.fmstream"/>
+    <import addon="plugin.program.thumbcache.cleaner"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
         <provides>executable</provides>
@@ -149,6 +150,25 @@
         <icon>icon.png</icon>
     </assets>
   </extension>
+</addon>
+
+<addon id="plugin.program.thumbcache.cleaner" name="Thumbnail Cache Cleaner" version="1.0.04" provider-name="Tiki">
+    <requires />
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.python.module" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Clean Kodi's Thumbnail Cache</summary>
+        <description lang="en">Clean Kodi's Thumbnail Cache</description>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <source>/</source>
+        <news></news>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
 </addon>
 
 </addons>

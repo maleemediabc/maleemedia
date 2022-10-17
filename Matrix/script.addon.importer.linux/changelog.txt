@@ -1,19 +1,26 @@
+[COLOR green]                          *** MALEE MEDIA UPDATE NOTICE ***
+PLEASE READ THE LATEST INFO BELOW, THEN PRESS BACK KEY ON YOUR REMOTE TO CLEAR THIS WINDOW[/COLOR]
+
 [COLOR red]**NOTE** When all updates have finished installing (no more update notices appear in the
 top right of your screen), then reboot cleanly by selecting the power option at the top left
 of your screen & choose "Reboot". You may need to authorise Trakt & Real Debrid for newly
-installed addons. This can be carried out easily in the new Box Settings program addon.[/COLOR]
+installed video addons. This can be carried out easily in the new Box Settings program addon.[/COLOR]
 
-[COLOR green]PLEASE READ THE LATEST INFO BELOW, THEN PRESS BACK KEY ON YOUR REMOTE TO CLEAR THIS WINDOW[/COLOR]
-
-[COLOR yellow]26/09/2022 *LATEST* Added new exclsuive music addon "FMStream". This will allow
-you to listen to Radio stations from all over the world in good quality. Enjoy 
+[COLOR yellow]17/10/2022 *LATEST* Added a new program "Thumbnail Cache Cleaner" which is a useful
+utility to remove the many unneeded thumbnail files clogging up your box's memory, with credit to Tiki.
+Just select how many past days you wish to keep the cached thumbnails for. Recommend set to 5 days but
+up to you. Worth running this utility at least monthly to keep your system running smoothly and fast.
+Useful just before regular full back ups of your system to keep them as small as possible.
 
 *REMINDER* Don't forget to look at the Google Drive addon for our latest superb collection
 of high quality music concerts to suit all sorts of tastes from rock to classical, exclusive
 for our Malee Media customers. When in the Google Drive addon, select "Malee Media Drive" then
 click on the option "Shared With Me". Includes a special Ray's Video VJ selection and by clicking
 the remote menu button on the first video track choose "Play From Here" and it will continously
-auto play each track in order until you choose to stop the playback. This is regularly updated.[/COLOR]
+auto play each track in order until you choose to stop it. This feature is regularly updated.[/COLOR]
+
+26/09/2022 Added new exclsuive music addon "FMStream". This will allow
+you to listen to Radio stations from all over the world in good quality. Enjoy 
 
 13/07/2022 Removed old Resolveurl version & installed the latest version by forcing 4K addon
 to update & auto install the new Resolveurl working version. Don't forget to reboot, then
