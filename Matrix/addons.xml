@@ -63,7 +63,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.iptv" name="IPTV" version="2.0.4" provider-name="X">
+<addon id="plugin.video.iptv" name="IPTV" version="2.0.5" provider-name="X">
   <requires>
 	<import addon="xbmc.python" version="3.0.0" />
 	<import addon="script.module.requests" />
@@ -134,7 +134,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.audio.fmstream" name="fmstream" version="1.0.3" provider-name="p">
+<addon id="plugin.audio.fmstream" name="fmstream" version="1.0.4" provider-name="p">
   <requires>
   	<import addon="script.module.requests" />
 	<import addon="script.module.requests-cache" />
