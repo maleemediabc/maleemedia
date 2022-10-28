@@ -19,7 +19,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.iptv" name="IPTV" version="3.0.0" provider-name="X">
+<addon id="plugin.video.iptv" name="IPTV" version="3.0.1" provider-name="X">
   <requires>
 	<import addon="xbmc.python" version="3.0.0" />
 	<import addon="script.module.requests" />
@@ -130,6 +130,43 @@
     <description lang="en"></description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="plugin.audio.fmstream" name="fmstream" version="1.0.4" provider-name="p">
+  <requires>
+  	<import addon="script.module.requests" />
+	<import addon="script.module.requests-cache" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">The Radio Stream Directory</summary>
+    <description lang="en">fmstream.org - The Radio Stream Directory</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.program.thumbcache.cleaner" name="Thumbnail Cache Cleaner" version="1.0.04" provider-name="Tiki">
+    <requires />
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.python.module" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Clean Kodi's Thumbnail Cache</summary>
+        <description lang="en">Clean Kodi's Thumbnail Cache</description>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <source>/</source>
+        <news></news>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
 </addon>
 
 </addons>
