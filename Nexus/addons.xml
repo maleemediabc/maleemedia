@@ -83,7 +83,7 @@
   </extension>
 </addon>
 
-<addon id="script.kodi.settings" name="[COLOR lime][B]BOX SETTINGS[/B][/COLOR]" version="3.0.0" provider-name="X">
+<addon id="script.kodi.settings" name="[COLOR lime][B]BOX SETTINGS[/B][/COLOR]" version="3.0.1" provider-name="X">
     <requires>
     </requires>
     <extension point="xbmc.python.script" library="addon.py">
