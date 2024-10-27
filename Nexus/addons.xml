@@ -130,7 +130,7 @@
     <description lang="en"></description>
     <platform>all</platform>
   </extension>
-</addon
+</addon>
 
 <addon id="plugin.audio.fmstream" name="fmstream" version="1.0.4" provider-name="p">
   <requires>
