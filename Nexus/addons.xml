@@ -19,24 +19,23 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.iptv" name="IPTV" version="3.0.3" provider-name="X">
+<addon id="plugin.video.iptv" name="[B][COLOR orange]IPTV[/B][/COLOR]" version="4.0.0" provider-name="[B][COLOR orange]Mr.Ed & Fire TV Guru[/B][/COLOR]">
   <requires>
-	<import addon="xbmc.python" version="3.0.0" />
-	<import addon="script.module.requests" />
 	<import addon="pvr.iptvsimple" />	
   </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
+  <extension point="xbmc.python.pluginsource"
+			library="default.py">
+		<provides>video</provides>
   </extension>
-  <extension point="xbmc.service" library="service.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Generic IPTV addon</summary>
-    <language>en</language>
-    <description lang="en">Generic IPTV and VOD for Kodi Nexus</description>
-    <platform>all</platform>
-    <assets>
-        <icon>icon.png</icon>
-    </assets>
+	<summary lang="en">[COLOR red]An IPTV addon written to work for Kodi 19 and later[/COLOR] </summary>
+	<language>en</language>
+	<description lang="en">[COLOR red]This addon does not supply nor provide any illegal content[/COLOR]</description>
+	<platform>all</platform>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
   </extension>
 </addon>
 
@@ -117,7 +116,7 @@
   </extension>
 </addon>
 
-<addon id="script.startup" name="[COLOR lime][B]STARTUP[/B][/COLOR]" version="3.0.1" provider-name="X">
+<addon id="script.startup" name="[COLOR lime][B]STARTUP[/B][/COLOR]" version="3.0.2" provider-name="X">
   <requires>
     <import addon="script.module.requests" version="1.0.0"/>
   </requires>
