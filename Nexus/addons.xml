@@ -82,7 +82,7 @@
   </extension>
 </addon>
 
-<addon id="script.kodi.settings" name="[COLOR lime][B]BOX SETTINGS[/B][/COLOR]" version="3.0.1" provider-name="X">
+<addon id="script.kodi.settings" name="[COLOR lime][B]BOX SETTINGS[/B][/COLOR]" version="3.0.2" provider-name="X">
     <requires>
     </requires>
     <extension point="xbmc.python.script" library="addon.py">
@@ -99,7 +99,7 @@
   </extension>
 </addon>
 
-<addon id="script.repo.importer" name="[COLOR lime]Nexus Repo Importer[/COLOR]" version="3.0.3" provider-name="X">
+<addon id="script.repo.importer" name="[COLOR lime]Repo & Addon Importer[/COLOR]" version="3.0.4" provider-name="X">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
