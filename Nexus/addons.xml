@@ -19,7 +19,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.iptv" name="[B][COLOR orange]IPTV[/B][/COLOR]" version="4.0.2" provider-name="[B][COLOR orange]Mr.Ed & Fire TV Guru[/B][/COLOR]">
+<addon id="plugin.video.iptv" name="[B][COLOR orange]IPTV[/B][/COLOR]" version="4.0.3" provider-name="[B][COLOR orange]Mr.Ed & Fire TV Guru[/B][/COLOR]">
   <requires>
 	<import addon="pvr.iptvsimple" />	
   </requires>
