@@ -23,8 +23,7 @@
   <requires>
 	<import addon="pvr.iptvsimple" />	
   </requires>
-  <extension point="xbmc.python.pluginsource"
-			library="default.py">
+  <extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
